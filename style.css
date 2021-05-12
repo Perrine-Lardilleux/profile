@@ -1,0 +1,50 @@
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+.list-inline li {
+  display: inline;
+  padding: 20px;
+}
+
+.card {
+  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  border-radius: 4px;
+  margin: 20px 0 10px 0;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+img {
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+}
+
+body {
+  background-color: #f7f9fc;
+  /*background-image: url("images/IMG_7363.jpg");*/
+  color: #575f7d;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1,
+h2 {
+  font-family: 'Amatic SC', cursive;
+  letter-spacing: 2px;
+}
+
+a.btn:hover {
+  background-color: rgb(230, 230, 230);
+}
+
+li i {
+  font-size: 30px;
+  color: #37A994;
+}
