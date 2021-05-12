@@ -40,8 +40,8 @@ h2 {
   letter-spacing: 2px;
 }
 
-a.btn:hover {
-  background-color: rgb(230, 230, 230);
+li i:hover {
+  color: rgb(230, 230, 230);
 }
 
 li i {
